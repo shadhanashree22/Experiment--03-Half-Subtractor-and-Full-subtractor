@@ -58,11 +58,13 @@ Give the Input Combinations according to the Truth Table amd then simulate the
 Output Waveform.
 
 ## Program:
+```
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 Developed by: S V SHADHANASHREE
 RegisterNumber:  23013434
 */
+```
 HALF SUBTRACTOR:
 ![Alt text](<Screenshot 2023-12-29 045051.png>)
 FULL SUBTRACTOR:

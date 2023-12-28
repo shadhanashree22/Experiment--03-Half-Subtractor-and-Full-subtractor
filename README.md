@@ -73,6 +73,7 @@ FULL SUBTRACTOR:
 ## Truthtable
 HALF SUBTRACTOR:
 ![Alt text](<Screenshot 2023-12-29 050818.png>)
+
 FULL SUBTRACTOR:
 ![Alt text](<Screenshot 2023-12-29 050835.png>)
 
